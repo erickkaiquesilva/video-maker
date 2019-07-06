@@ -4,6 +4,6 @@ File: `credentials.json`
 
 ```
 {
-    "apiKey" : "simpS6wo0aa5UXPg6uGEmGvvolJ1"
+    "apiKey" : "sim8As72h56j3mBYqEOSHfLE4k81"
 }
 ```
